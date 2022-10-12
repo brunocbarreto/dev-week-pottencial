@@ -17,4 +17,5 @@ Mariana Doria (Pottencial)
 Juliano Silva (Pottencial)
 
 A parte técnica foi ensinada pelo professor Felipe Aguiar (DIO) 
+
 Mentorias feitas em parceria do professor Felipe com participação do Rafael Galvão (DIO).
